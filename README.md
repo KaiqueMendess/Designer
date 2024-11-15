@@ -1,27 +1,35 @@
-Kaique Mendes - Portfólio de Design Gráfico 🎨
-Bem-vindo ao meu portfólio de design gráfico! Este repositório apresenta projetos criados usando o Canva, que refletem minha criatividade e habilidades visuais.
+🎨 Kaique Mendes - Portfólio de Design Gráfico
+![Banner de Bem-Vindo](link-do-banner.gif)
+Bem-vindo ao meu portfólio de design gráfico! Aqui você encontrará projetos criados com o Canva, refletindo minha criatividade, atenção aos detalhes e habilidades em comunicação visual.
 
 🖌️ Sobre Mim
-Sou apaixonado por design e busco criar peças visuais que comuniquem mensagens de forma clara e atrativa. Este portfólio inclui projetos voltados para identidade visual, banners promocionais e logos.
+Sou apaixonado por design gráfico e acredito no poder de uma boa comunicação visual. Meu objetivo é criar peças que sejam não apenas esteticamente agradáveis, mas também eficientes em transmitir mensagens de forma clara e impactante.
+
+Neste portfólio, você encontrará:
+
+Identidades visuais
+Banners promocionais
+Logotipos
+Cada projeto conta uma história, e estou animado para compartilhar a minha com você.
 
 📂 Projetos
-1. Logo para Revendedora de Produtos
-Descrição: Criação de uma identidade visual personalizada para uma revendedora de produtos, destacando profissionalismo e confiança.
+1️⃣ Logo para Revendedora de Produtos
+Descrição: Desenvolvimento de uma identidade visual que reflete confiança e profissionalismo.
 Ferramentas: Canva
-Preview:
 
-2. Logo Fatec Campus
-Descrição: Logo desenvolvida como aprendizado, representando uma rede social para alunos da FATEC, com foco em conectar a comunidade acadêmica.
+2️⃣ Logo Fatec Campus
+Descrição: Criada como parte de um projeto pessoal, esta logo representa uma rede social acadêmica para alunos da FATEC.
 Ferramentas: Canva
-Preview:
 
-3. Banner Promocional para Bar
-Descrição: Design de um banner para a inauguração de um bar, destacando a data e as ofertas especiais do evento.
+
+3️⃣ Banner Promocional para Bar
+Descrição: Design de um banner promocional para a inauguração de um bar, destacando ofertas especiais e o ambiente acolhedor.
 Ferramentas: Canva
-Preview:
+
 
 💼 Contato
-Gostou do meu trabalho ou gostaria de colaborar? Entre em contato comigo:
+Gostou do meu trabalho? Vamos conversar!
 
 Email: kaiquemendesn10@gmail.com
-LinkedIn: https://www.linkedin.com/in/kaique-mendes-813208186/
+LinkedIn: linkedin.com/in/kaique-mendes-813208186/
+Estou sempre aberto a novas oportunidades e colaborações. Obrigado por visitar meu portfólio!
