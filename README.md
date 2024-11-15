@@ -37,7 +37,7 @@ Cada projeto conta uma história, e estou animado para compartilhar a minha com 
 ### 3️⃣ **Banner Promocional para Bar**  
 - **Descrição:** Design de um banner promocional para a inauguração de um bar, destacando ofertas especiais e o ambiente acolhedor.  
 - **Ferramentas:** Canva  
-![Banner Bar](Produtos%20Incriveis.png)  
+![Banner Bar](Produtos%20Incriveiss.png)  
 
 ---
 
